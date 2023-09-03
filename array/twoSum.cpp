@@ -3,7 +3,7 @@ using namespace std;
 
 #include<vector>
 #include<unordered_map>
-//1. 两数之和
+//1.两数之和
 class Solution 
 {
 public:
