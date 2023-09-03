@@ -5,7 +5,7 @@ using namespace std;
 //4.删除重复的元素
 class Solution {
 public:
-    /**int removeDuplicates(vector<int>& nums) {
+    int removeDuplicates(vector<int>& nums) {
         unordered_map<int, int> hashtable;
         vector<int>::iterator it = nums.begin();
         for (it; it != nums.end(); it++)
@@ -23,12 +23,7 @@ public:
         }
         return nums.size();
     }
-    */
-   //更好的思路
-   int removeDuplicates(vector<int>& nums)
-   {
-        
-   }
+   
 };
 
 void goSolution(vector<int>& nums)
