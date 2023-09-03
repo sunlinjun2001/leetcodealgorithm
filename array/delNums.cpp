@@ -2,7 +2,7 @@
 using namespace std;
 #include <vector>
 #include <unordered_map>
-//删除重复的元素
+//4.删除重复的元素
 class Solution {
 public:
     /**int removeDuplicates(vector<int>& nums) {
